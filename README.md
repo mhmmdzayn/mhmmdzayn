@@ -4,7 +4,7 @@ I am a passionate Politeknik IDN, driven by a curiosity for technology and a lov
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Mikrotik RT RW NET
 - 👯 I’m looking to collaborate on network projects or open-source projects related to Mobile Development
 - 🤔 I’m looking for help with expanding my knowledge of Cyber Security and Network Engineer
 - ⚡ Fun fact I was invited to bedroom for sleep when feel tired 
