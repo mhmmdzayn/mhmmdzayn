@@ -26,7 +26,7 @@ I am a passionate Politeknik IDN, driven by a curiosity for technology and a lov
  ## 🏆 Achievements
 
   - 🌟 Completed Hacktoberfest 2018-2020 - Contributed to open source projects and celebrated the spirit of collaboration.
-  - 👾 Mikrotik Certified Network Associate - 2023
+  - 👾 [Mikrotik Certified Network Associate](https://mikrotik.com/training/certificates/c275979c3df36dfae87e)  - 2023
   - 🤖 IAK (Indonesia Android Kejar) - 2019
 
 ## 📬 Get in Touch
